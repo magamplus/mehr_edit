@@ -222,16 +222,13 @@ function create_config( )
     "invite",
     "all"
     },
-    sudo_users = {91054649,130760959,124006976,0,tonumber(our_id)},--Sudo users
+    sudo_users = {},--Sudo users
     disabled_channels = {},
     realm = {},--Realms Id
     moderation = {data = 'data/moderation.json'},
-    about_text = [[TeleGamer Anti Spam Bot v2.0 
-  Channel : @TELEGAMERCH
-  Admin : @MEHRPOUYA81
-  @MT246
-  Powered by :
-  TELE GAMER TEAM
+    about_text = [[Telemega Anti Spam Bot v1.0 
+ 
+ با تشکر از مهرپویا دوست خوبم
 ]],
     help_text = [[
 لیست دستورات :
