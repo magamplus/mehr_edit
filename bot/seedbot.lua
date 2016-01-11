@@ -224,7 +224,6 @@ function create_config( )
     },
     sudo_users = {76458212,95876809,179983320},--Sudo users
     disabled_channels = {},
-    realm = {},--Realms Id
     moderation = {data = 'data/moderation.json'},
     about_text = [[Telemega Anti Spam Bot v1.0 
  
